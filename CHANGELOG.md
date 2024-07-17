@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.12.3](https://github.com/philips-labs/terraform-aws-github-runner/compare/v5.12.2...v5.12.3) (2024-07-17)
+
+
+### Bug Fixes
+
+* add warnings to log for GitHub rate limits ([#3988](https://github.com/philips-labs/terraform-aws-github-runner/issues/3988)) ([2ed0b29](https://github.com/philips-labs/terraform-aws-github-runner/commit/2ed0b29960a7eb932090cdd3612680c9efc3a5b8))
+
 ## [5.12.2](https://github.com/philips-labs/terraform-aws-github-runner/compare/v5.12.1...v5.12.2) (2024-07-12)
 
 
